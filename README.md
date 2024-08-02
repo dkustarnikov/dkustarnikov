@@ -21,13 +21,11 @@ Here are some ideas to get you started:
 
 <div style="margin-top: 16px;" />
 
-<h3 align="center">You can reach me by email at dmitry.kustarnikov 'at' gmail 'dot' com</h3>
+<h3 align="center">You can reach me by email at dmitry.kustarnikov@gmail.com</h3>
 
 <div style="margin-top: 48px;" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dmitrykustarnikov/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dkustarnikov)
-
 <div style="margin-top: 48px;" />
 
 ### Experience & tools I use
