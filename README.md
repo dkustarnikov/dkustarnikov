@@ -60,6 +60,7 @@ My experience spans web and mobile app development, cloud services, and more. He
 
 Here are a few of my pinned repositories that highlight my passion for R&D and my versatile tech stack:
 
+- [**Workout Wager API (Archived)**](https://github.com/dkustarnikov/WorkoutWager): A serverless backend system for managing workouts and user wagers, showcasing AWS Lambda, TypeScript, and API Gateway.
 - [**AWS CDK Lambda TypeScript Template**](https://github.com/dkustarnikov/aws_cdk_lambda_typescript_template): A template for creating AWS Lambda functions with TypeScript using AWS CDK. This project simplifies the setup and deployment process.
 - [**Drinking Game**](https://github.com/dkustarnikov/DrinkingGame): A fun and interactive drinking game application. It's a great example of using technology to enhance social experiences.
 - [**Tinder OpenGPT Instagram Combo**](https://github.com/dkustarnikov/tinder_opengpt_instagram_combo): An innovative project combining Tinder, OpenGPT, and Instagram functionalities to create a unique user experience.
