@@ -1,85 +1,63 @@
-<h1 align="center">Hi, I'm Dmitry Kustarnikov! 👋</h1>
+# Dmitry Kustarnikov
 
-<h3 align="center">Full-Stack Developer | AWS & Cloud Specialist | API Enthusiast</h3>
-<h3 align="center">Building scalable and innovative solutions for modern challenges 🚀</h3>
+## Software Developer | Cloud Architect | Systems Thinker
 
----
+I build systems that scale, solve problems that matter, and design APIs that feel like they were meant to be. With 3+ years of experience in full-stack development, I specialize in cloud-native applications using AWS, .NET, and React/TypeScript.
 
-## 🌟 About Me
-
-- **Software Developer II** with 3+ years of experience in full-stack development, specializing in **AWS cloud architecture**, **.NET Framework**, and **API development**.
-- Adept at collaborating in **agile teams** and delivering high-quality, scalable solutions using **React**, **TypeScript**, and **AWS CDK**.
-- Passionate about leveraging cloud technologies to build robust, future-ready systems.
+I enjoy solving complex technical challenges, optimizing infrastructure, and contributing to forward-thinking teams that care about clean code and clear outcomes.
 
 ---
 
-## 💼 Professional Highlights
+### Current Focus
 
-- 🚀 **Cloud-Native Applications**: Designed and deployed serverless AWS Lambda functions, RESTful APIs, and GraphQL endpoints to enhance scalability and performance.
-- 🛠️ **Cross-Platform Development**: Developed mobile applications using **Flutter Dart** and web solutions with **React TypeScript**.
-- 🎯 **Streamlined Infrastructure**: Built efficient, reusable AWS CDK constructs to reduce development time and improve infrastructure scalability.
-- 🌐 **Innovative Projects**: Worked on cutting-edge AI prototypes, exploring biometric and device authentication for enhanced security.
-
----
-
-## 🛠️ Skills
-
-### **Programming Languages**
-- Java, JavaScript, C#, TypeScript
-
-### **Frameworks & Libraries**
-- React, Spring Boot, GraphQL, Flutter Dart
-
-### **Cloud & DevOps**
-- AWS CDK, AWS Lambda, Kubernetes, Docker, Serverless Architecture, CloudFormation
-
-### **APIs**
-- RESTful APIs, GraphQL
-
-### **Database Management**
-- DynamoDB, AWS RDS (Relational & NoSQL)
-
-### **Tools**
-- Postman, SonarQube, Bruno, Figma, Adobe XD, Playwright
+- Designing scalable, serverless architectures on AWS
+- Building cross-platform apps with Flutter and React
+- Automating infrastructure with AWS CDK and CloudFormation
+- Experimenting with biometrics, AI integrations, and edge technologies
 
 ---
 
-## 📌 Pinned Repositories
+### Tools I Use Often
 
-Here are some of my featured projects:
+**Languages**  
+C#, TypeScript, Java, JavaScript
 
-- [**Workout Wager API (Archived)**](https://github.com/dkustarnikov/WorkoutWager)  
-  A serverless backend system for managing workouts and wagers. Built using AWS Lambda, TypeScript, and API Gateway.
+**Frameworks & Libraries**  
+React, Spring Boot, GraphQL, Flutter
 
-- [**AWS CDK Lambda TypeScript Template**](https://github.com/dkustarnikov/aws_cdk_lambda_typescript_template)  
-  A streamlined template for creating AWS Lambda functions with TypeScript using AWS CDK.
+**Cloud & DevOps**  
+AWS CDK, Lambda, Docker, Kubernetes
 
-- [**Drinking Game**](https://github.com/dkustarnikov/DrinkingGame)  
-  A fun and interactive application, showcasing my skills in mobile development.
+**Databases**  
+DynamoDB, RDS
 
-- [**Tinder OpenGPT Instagram Combo**](https://github.com/dkustarnikov/tinder_opengpt_instagram_combo)  
-  Combines Tinder, OpenGPT, and Instagram functionalities for an innovative user experience.
-
----
-
-## 🎓 Education
-
-**Bachelor of Computer Science**  
-University of Michigan-Dearborn (2019–2022)
+**Tooling**  
+SonarQube, Postman, Playwright, Figma
 
 ---
 
-## 🔗 Let's Connect!
+### Featured Work
 
-- **Email**: dmitry.kustarnikov@gmail.com  
-- **LinkedIn**: [linkedin.com/in/dmitrykustarnikov](https://www.linkedin.com/in/dmitrykustarnikov/)  
+[**Workout Wager API (Archived)**](https://github.com/dkustarnikov/WorkoutWager)
+A backend system built with AWS Lambda and TypeScript to manage fitness-based challenges.
+
+[**AWS CDK Lambda TypeScript Template**](https://github.com/dkustarnikov/aws_cdk_lambda_typescript_template)  
+A starter template for quickly launching Lambda functions using TypeScript and CDK.
+
+[**Tinder OpenGPT Instagram Combo**](https://github.com/dkustarnikov/tinder_opengpt_instagram_combo)
+A proof-of-concept integrating AI-driven conversations across multiple social platforms.
 
 ---
 
-## ⚡ Fun Facts
+### Education
 
-- Fluent in **English** and **Russian**.
-- Built and deployed an **NFT collection project**.
-- Constantly exploring **emerging technologies** to innovate and inspire.
+**BSc, Computer Science**  
+University of Michigan–Dearborn  
+2019 – 2022
 
-Feel free to connect with me, explore my repositories, or drop me a message for collaborations. Let's build something amazing together! 🚀
+---
+
+### Let’s Connect
+
+**Email:** dmitry.kustarnikov@gmail.com  
+**LinkedIn:** [linkedin.com/in/dmitrykustarnikov](https://linkedin.com/in/dmitrykustarnikov)
