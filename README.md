@@ -1,5 +1,6 @@
 # Dmitry Kustarnikov  
 **Software Developer II** | **React Typescript** | **AWS CDK** | **Node**
+
 📍 New York City  
 📧 [dmitry.kustarnikov@gmail.com](mailto:dmitry.kustarnikov@gmail.com) • [LinkedIn](https://linkedin.com/in/dmitrykustarnikov) • [GitHub](https://github.com/dkustarnikov)
 
@@ -49,13 +50,13 @@ Figma • Adobe XD
 
 ## Featured Work  
 
-### **Workout Wager API (Archived)**  
+### [**Workout Wager API (Archived)**](https://github.com/dkustarnikov/WorkoutWager)
 Backend system built with AWS Lambda and TypeScript to manage fitness challenges.  
 
-### **AWS CDK Lambda Template**  
+### [**AWS CDK Lambda Template**](https://github.com/dkustarnikov/aws_cdk_lambda_typescript_template)  
 Starter template for quickly bootstrapping Lambda functions in TypeScript.  
 
-### **Tinder / OpenGPT / Instagram Combo (PoC)**  
+### [**Tinder / OpenGPT / Instagram Combo (PoC)**](https://github.com/dkustarnikov/tinder_opengpt_instagram_combo)
 Integrated AI-driven conversation flows across multiple platforms.  
 
 ---
