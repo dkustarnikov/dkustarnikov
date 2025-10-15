@@ -1,63 +1,73 @@
-# Dmitry Kustarnikov
-
-## Software Developer | Cloud Architect | Systems Thinker
-
-I build systems that scale, solve problems that matter, and design APIs that feel like they were meant to be. With 3+ years of experience in full-stack development, I specialize in cloud-native applications using AWS, .NET, and React/TypeScript.
-
-I enjoy solving complex technical challenges, optimizing infrastructure, and contributing to forward-thinking teams that care about clean code and clear outcomes.
+# Dmitry Kustarnikov  
+**Software Developer II** | **React Typescript** | **AWS CDK** | **Node**
+📍 New York City  
+📧 [dmitry.kustarnikov@gmail.com](mailto:dmitry.kustarnikov@gmail.com) • [LinkedIn](https://linkedin.com/in/dmitrykustarnikov) • [GitHub](https://github.com/dkustarnikov)
 
 ---
 
-### Current Focus
+## About Me  
+I’m a **Software Developer II** with over 3 years of experience designing and building **AWS-based backend systems**, **REST & GraphQL APIs**, and **TypeScript/Node services**.  
+I specialize in **serverless architecture** and **scalable API design**, focusing on clean, maintainable systems that deliver measurable impact.  
 
-- Designing scalable, serverless architectures on AWS
-- Building cross-platform apps with Flutter and React
-- Automating infrastructure with AWS CDK and CloudFormation
-- Experimenting with biometrics, AI integrations, and edge technologies
+Recently, my work has centered around **LLM-integrated backend features**, **infrastructure automation with AWS CDK**, and **cross-team collaboration** to ship production-ready cloud services.
 
 ---
 
-### Tools I Use Often
+## Current Focus  
+- Designing **serverless architectures** with AWS CDK & Lambda  
+- Building **TypeScript/Node** services and **React** front-ends  
+- Integrating **LLM and AI-driven** features into production APIs  
+- Automating infrastructure and deployment pipelines  
+- Exploring **biometric authentication**, **AI integrations**, and **edge compute**
+
+---
+
+## Tech Stack  
 
 **Languages**  
-C#, TypeScript, Java, JavaScript
+TypeScript • JavaScript • Java • C# • Groovy  
 
 **Frameworks & Libraries**  
-React, Spring Boot, GraphQL, Flutter
+Node.js • React • Spring Boot • Flutter (Dart)  
 
 **Cloud & DevOps**  
-AWS CDK, Lambda, Docker, Kubernetes
+AWS (CDK • Lambda • API Gateway • DynamoDB • S3) • Docker • Kubernetes • Serverless Architecture  
 
 **Databases**  
-DynamoDB, RDS
+PostgreSQL • DynamoDB  
 
-**Tooling**  
-SonarQube, Postman, Playwright, Figma
+**AI & Automation**  
+LLM Integration • Prompt Design • AWS SageMaker  
 
----
+**Tools**  
+GitHub • Jenkins • Postman • Playwright • Bruno • SonarQube  
 
-### Featured Work
-
-[**Workout Wager API (Archived)**](https://github.com/dkustarnikov/WorkoutWager)
-A backend system built with AWS Lambda and TypeScript to manage fitness-based challenges.
-
-[**AWS CDK Lambda TypeScript Template**](https://github.com/dkustarnikov/aws_cdk_lambda_typescript_template)  
-A starter template for quickly launching Lambda functions using TypeScript and CDK.
-
-[**Tinder OpenGPT Instagram Combo**](https://github.com/dkustarnikov/tinder_opengpt_instagram_combo)
-A proof-of-concept integrating AI-driven conversations across multiple social platforms.
+**Design**  
+Figma • Adobe XD  
 
 ---
 
-### Education
+## Featured Work  
 
-**BSc, Computer Science**  
-University of Michigan–Dearborn  
-2019 – 2022
+### **Workout Wager API (Archived)**  
+Backend system built with AWS Lambda and TypeScript to manage fitness challenges.  
+
+### **AWS CDK Lambda Template**  
+Starter template for quickly bootstrapping Lambda functions in TypeScript.  
+
+### **Tinder / OpenGPT / Instagram Combo (PoC)**  
+Integrated AI-driven conversation flows across multiple platforms.  
 
 ---
 
-### Let’s Connect
+## Education  
+**University of Michigan – Dearborn**  
+_Bachelor of Science in Computer Science_  
+2019 – 2022  
 
-**Email:** dmitry.kustarnikov@gmail.com  
-**LinkedIn:** [linkedin.com/in/dmitrykustarnikov](https://linkedin.com/in/dmitrykustarnikov)
+---
+
+## Let’s Connect  
+📧 [dmitry.kustarnikov@gmail.com](mailto:dmitry.kustarnikov@gmail.com)  
+💼 [linkedin.com/in/dmitrykustarnikov](https://linkedin.com/in/dmitrykustarnikov)  
+💻 [github.com/dkustarnikov](https://github.com/dkustarnikov)
